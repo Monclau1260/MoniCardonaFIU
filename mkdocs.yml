@@ -1,11 +1,11 @@
-site_name: 'ESIIL Postdoctoral Researcher OASIS'
-site_description: 'Central resource for ESIIL postdoctoral researchers'
-site_author: Ty Tuff
-site_url: https://cu-esiil.github.io/Postdoc_OASIS
+site_name: 'Monclau1260/MoniCardonaFIU'
+site_description: 'Central resource MoniCardona doctoral research'
+site_author: Monclau1260
+site_url: https://github.com/Monclau1260/MoniCardonaFIU/blob/main/mkdocs.yml
 
 # Repository
-repo_name: Postdoc_OASIS
-repo_url: https://github.com/CU-ESIIL/Postdoc_OASIS
+repo_name: PhD_FUI_Monclau1260/MoniCardonaFIU
+repo_url: https://github.com/Monclau1260/MoniCardonaFIU/blob/main/mkdocs.yml
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
